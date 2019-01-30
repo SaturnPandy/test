@@ -1,3 +1,3 @@
 print("Hello world")
 print("spring is coming")
-prin("keep your smile")
+print("keep your smile")
