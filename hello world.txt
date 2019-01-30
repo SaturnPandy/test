@@ -1,2 +1,2 @@
-print("Hello world")
-print("spring is coming")
+print("Hello world!")
+print("spring is coming!")
