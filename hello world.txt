@@ -1,3 +1,4 @@
-print("Hello world")
-print("spring is coming")
-print("keep your smile")
+print("Hello world!")
+print("spring is coming!")
+print("keep your smile!")
+
